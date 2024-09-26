@@ -1,11 +1,25 @@
-#COMO JUGAR
+# 🕹️ **You Are The Monster** - ¡El Juego!
 
-Al descargar los archivos ejecutar You are the monster.exe
+## 🚀 **Cómo Jugar**
 
-INSTRUCCIONES
+1. Descarga los archivos.
+2. Ejecuta **`You Are The Monster.exe`** para comenzar tu aventura.
 
-Te mueves con las flechas direccionales e interactuas/corres con 'x' y atacas con 'z'
+---
 
-CONSEJO
+## 🎮 **Controles**
 
-Puedes interactuar con carteles y personajes, habla con 'shrek'
+- **Moverte**: Usa las **flechas direccionales** ⬅️➡️⬆️⬇️.
+- **Interactuar/Correr**: Pulsa la tecla **`X`**.
+- **Atacar**: Usa la tecla **`Z`**.
+
+---
+
+## 💡 **Consejos Útiles**
+
+- Puedes interactuar con **carteles** y **personajes**.
+- No te olvides de hablar con **Shrek** para obtener información clave. 😉
+
+---
+
+¡Buena suerte en tu aventura monstruosa! 👾
