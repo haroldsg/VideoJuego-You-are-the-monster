@@ -8,4 +8,4 @@ Te mueves con las flechas direccionales e interactuas/corres con 'x' y atacas co
 
 CONSEJO
 
-Puedes interactuar con carteles y pj, habla con 'shrek'
+Puedes interactuar con carteles y personajes, habla con 'shrek'
