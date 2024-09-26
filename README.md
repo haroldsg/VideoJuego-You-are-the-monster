@@ -1,4 +1,4 @@
-COMO JUGAR
+#COMO JUGAR
 
 Al descargar los archivos ejecutar You are the monster.exe
 
